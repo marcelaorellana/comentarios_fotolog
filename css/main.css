@@ -57,7 +57,11 @@ footer{
   padding: 10px;
 }
 
-
-
 /* Estilos comentarios */
-
+.cajas{
+  background-color: #F890E5;
+}
+.cajas h1{
+  color: #5b545a;
+  font-size: 30px;
+}
