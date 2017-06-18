@@ -8,13 +8,17 @@ header {
 }
 img {
   width: 100%;
-  margin-bottom: 30px;
+  height: auto;
+  border-radius: 10px;
 }
 
 a {
   text-decoration: underline;
   color: green;
   margin-bottom: 30px;
+}
+.espacio{
+  margin-bottom: 20px;
 }
 
 #bannerflog img {
