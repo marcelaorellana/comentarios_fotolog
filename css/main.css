@@ -1,5 +1,10 @@
+/* #472D38; /*plum*/
+/* #72AD97; /*green blue*/
+/* #D6D9BA; /*Kaki*/
+/* #E6AF83; /*nude*/
+/* #D16C5C; /*peach*/
 body {
-  background-color: white;
+  background-color: #D6D9BA; /*Kaki*/
   color:black;
 }
 
@@ -25,7 +30,7 @@ a {
   height: 100px;
 }
 h1, p{
-  color: DeepPink ;
+  color: #472D38; /*plum*/
 }
 h1{
   font-size: 50px;
@@ -35,7 +40,7 @@ h1{
 textarea, input{
   width: 100%;
   border-radius: 0px;
-  border: 1px solid DeepPink;
+  border: 1px solid #72AD97; /*green blue*/
   margin-bottom: 20px;
 }
 
