@@ -76,6 +76,9 @@ textarea, input{
   margin-bottom: 20px;
   background-color: #D6D9BA; /*Kaki*/
 }
+textarea:focus, input:focus{
+   outline: none;
+}
 
 .posteo {
   color: DeepPink;
@@ -139,10 +142,12 @@ footer{
   background-color: transparent;
   border: none; 
   color: #472D38; /*plum*/
+  outline: none;
 }
 .formulario button:focus{
   background-color: transparent;
   border: none; 
+  outline: none;
   color: #472D38; /*plum*/
 }
 

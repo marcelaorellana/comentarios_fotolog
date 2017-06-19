@@ -29,7 +29,8 @@ function guardarDatos(){
 		caja.appendChild(comentario);
 
 		contenedor.appendChild(caja);
-
+		document.getElementById("clave").value = "";
+		document.getElementById("valor").value = "";
 	}
 	
 }
